@@ -1,0 +1,20 @@
+{
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/dist": true,
+    "**/node_modules": true
+  },
+  "search.exclude": {
+    "**/.git": true,
+    "**/dist": true,
+    "**/node_modules": true
+  },
+  "files.associations": {
+    "AGENTS.md": "markdown",
+    "CLAUDE.md": "markdown",
+    "GEMINI.md": "markdown",
+    "*.prompt": "markdown"
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.formatOnSave": true
+}
